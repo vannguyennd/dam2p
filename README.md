@@ -21,4 +21,6 @@ The folder named “datasets” consists of all of the necessary files containin
 
 Note that: Please download the dataset and the source code files via this link https://drive.google.com/drive/folders/1Rlabx8LSBdTGM5CyW39KNX6Yc9vcS081?usp=sharing
 
-The model configuration For the DAM2P model configuration, please read the Model configuration section in the supplementary material for details.
+## The model configuration 
+
+For the DAM2P model configuration, please read the Model configuration section in the supplementary material for details.
