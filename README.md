@@ -23,4 +23,4 @@ Note that: Please download the dataset and the source code files via this link h
 
 ## The model configuration 
 
-For the DAM2P model configuration, please read the Model configuration section in the supplementary material for details.
+For the DAM2P model configuration, please read the Model configuration section in the appendix of our paper for details.
