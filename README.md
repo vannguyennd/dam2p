@@ -1,6 +1,6 @@
 # DAM2P
 
-The source code samples for reproducing the experimental results mentioned in our paper "Cross Project Software Vulnerability Detection via Domain Adaptation and Max-Margin Principle".
+The source code samples for reproducing the experimental results mentioned in our paper "Cross Project Software Vulnerability Detection via Domain Adaptation and Max-Margin Principle". Refer to http://arxiv.org/abs/2209.10406 for details.
 
 ## Datasets
 We used the real-world datasets experimented in Nguyen et al. (2019, 2020). These contain the source code of vulnerable functions (vul-funcs) and non-vulnerable functions (non-vul-funcs) obtained from six real-world software project datasets, namely FFmpeg (#vul-funcs: 187 and #non-vul-funcs: 5427), LibTIFF (#vul-funcs: 81 and #non-vul-funcs: 695), LibPNG (#vul-funcs: 43 and #non-vul-funcs: 551), VLC (#vul-funcs: 25 and #non-vul-funcs: 5548), and Pidgin (#vul-funcs: 42 and #non-vul-funcs: 8268). These datasets cover multimedia and image application categories.
