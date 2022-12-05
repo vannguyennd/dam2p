@@ -22,3 +22,17 @@ The folder named “datasets” consists of all of the necessary files containin
 ## The model configuration 
 
 For the DAM2P model configuration, please read the Model configuration section in the appendix of our paper for details.
+
+## Citation
+
+If you reference (and/or) use our source code samples in your work, please kindly cite our paper.
+
+@misc{vannguyen-dam2p-2022,<br/>
+  doi = {10.48550/ARXIV.2209.10406},<br/>
+  url = {https://arxiv.org/abs/2209.10406},<br/>
+  author = {Nguyen, Van and Le, Trung and Tantithamthavorn, Chakkrit and Grundy, John and Nguyen, Hung and Phung, Dinh},<br/>
+  title = {Cross Project Software Vulnerability Detection via Domain Adaptation and Max-Margin Principle},<br/>
+  publisher = {arXiv},<br/>
+  year = {2022},<br/>
+  copyright = {Creative Commons Attribution 4.0 International}<br/>
+}
