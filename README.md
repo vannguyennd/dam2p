@@ -25,7 +25,7 @@ For the DAM2P model configuration, please read the Model configuration section i
 
 ## Citation
 
-If you reference (and/or) use our source code samples in your work, please kindly cite our paper.
+If you reference our paper (and/or) use our source code samples in your work, please kindly cite our paper.
 
 @article{vannguyen-dam2p-2022,<br/>
   doi = {10.48550/ARXIV.2209.10406},<br/>
