@@ -1,6 +1,6 @@
 from tensorflow.contrib import rnn
 from flip_gradient import flip_gradient
-from Utils import *
+from utils import *
 import time
 import os
 from sklearn import metrics as mt
