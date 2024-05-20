@@ -1,7 +1,6 @@
 import tensorflow as tf
 from tensorflow.python.framework import ops
 
-
 class FlipGradientBuilder(object):
     def __init__(self):
         self.num_calls = 0
@@ -19,6 +18,5 @@ class FlipGradientBuilder(object):
 
         self.num_calls += 1
         return y
-
 
 flip_gradient = FlipGradientBuilder()
