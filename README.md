@@ -18,7 +18,7 @@ Here, we provide the instructions for using the source code samples of our DAM2P
 
 ## Folders and files
 
-The folder named “datasets” consists of all of the necessary files containing the source domain (FFmpeg) and target domain (LibPNG) data.  The file named “DAM2P.py” is the source code of our proposed DAM2P method used for the training and evaluating processes. The file named “utils.py” is a collection of supported Python functions used in the training and evaluating processes of the model.
+The folder named “datasets” consists of all of the necessary files containing the source domain (FFmpeg) and target domain (LibPNG) data.  The source code for our proposed DAM2P method is contained in two files: "DAM2P.py" and "DAM2P_v2.py". Both files are utilized for training and evaluating processes. You can choose either "DAM2P.py" or "DAM2P_v2.py" for your purposes. The file named “utils.py” is a collection of supported Python functions used in the training and evaluating processes of the model.
 
 ## The model configuration 
 
